@@ -2,32 +2,39 @@
 
 ### 1. Company Setup
 
-![Company Setup](./screenshots/01-company-setup.png)
+![Company Setup](./Sceenshots/1.Informasi Perusahaan.png)
 
 ### 2. Chart of Accounts
 
-![Chart of Accounts](./screenshots/02-chart-of-accounts.png)
+![Chart of Accounts](./Sceenshots/2.1 Daftar Akun.1.jpg)
+![Chart of Accounts](./Sceenshots/2.2 Daftar Akun.2.jpg)
 
 ### 3. Master Barang
 
-![Master Barang](./screenshots/03-master-barang.png)
+![Master Barang](./Sceenshots/03. Daftar Barang.1.jpg)
 
 ### 4. Faktur Pembelian
 
-![Faktur Pembelian](./screenshots/04-purchase-invoice.png)
+![Faktur Pembelian](./Sceenshots/4.Transaksi Pembelian.png)
 
 ### 5. Faktur Penjualan
 
-![Faktur Penjualan](./screenshots/05-sales-invoice.png)
+![Faktur Penjualan](./Sceenshots/5.Transaksi Penjualan.png)
 
 ### 6. Neraca Saldo Final
 
-![Neraca Saldo](./screenshots/06-neraca-saldo-final.png)
+![Neraca Saldo](./Sceenshots/6.Neraca Saldo.1.1.jpg)
+![Neraca Saldo](./Sceenshots/6.Neraca Saldo.1.2.jpg)
+![Neraca Saldo](./Sceenshots/6.Neraca Saldo.1.3.jpg)
 
 ### 7. Laporan Laba Rugi
 
-![Laba Rugi](./screenshots/07-laba-rugi-final.png)
+![Laba Rugi](./Sceenshots/7.Laba-Rugi.1.jpg)
 
 ### 8. Neraca Final
 
-![Neraca Final](./screenshots/08-neraca-final.png)
+![Neraca Final](./Sceenshots/8.Neraca Final.1.jpg)
+![Neraca Final](./Sceenshots/8.Neraca Final.2.jpg)
+![Neraca Final](./Sceenshots/8.Neraca Final.3.jpg)
+
+
